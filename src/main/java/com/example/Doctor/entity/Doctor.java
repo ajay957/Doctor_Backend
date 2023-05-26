@@ -1,5 +1,7 @@
 package com.example.Doctor.entity;
 
+import com.sun.istack.NotNull;
+
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
